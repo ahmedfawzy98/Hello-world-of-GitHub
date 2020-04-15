@@ -4,3 +4,8 @@ This is a practicing repository to get familiar with GitHub stuff such as issues
 ########\
 This content was created with update_readme branch inside GitHub.\
 ########
+
+
+#############\
+This is the content added by pr from GitHub CLI\
+#############
